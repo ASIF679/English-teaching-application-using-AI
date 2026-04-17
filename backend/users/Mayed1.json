@@ -1,0 +1,2550 @@
+{
+  "id": "889fbfd1-7c86-4cd2-9232-ff35a98f028b",
+  "username": "Mayed1",
+  "email": "rafay@pixcell.io",
+  "full_name": "Mayed Razi Butt",
+  "password_hash": "scrypt:32768:8:1$igqTZQo9bpeia6Mt$3cdd8c831fc442139038d3968f75f9b181f29143952f0e3fdcfc2e540b564c8573096e3db47fb093431729cbdb9558b51ec7bc94020d02997f32db15fc65112b",
+  "created_at": "2025-05-26T09:16:16.654373",
+  "profile": {
+    "level": "beginner",
+    "current_persona": "beginner",
+    "proficiency_score": 83,
+    "pronunciation_score": 71,
+    "grammar_score": 95,
+    "fluency_score": 87,
+    "manual_level_override": true,
+    "goals": {
+      "daily_practice_time": 15,
+      "weekly_vocab_target": 20,
+      "current_focus": "conversation"
+    },
+    "preferences": {
+      "voice_enabled": true,
+      "difficulty": "adaptive",
+      "topics": [
+        "general",
+        "conversation"
+      ],
+      "correction_style": "gentle",
+      "pronunciation_feedback": true,
+      "auto_level_adjustment": false
+    }
+  },
+  "stats": {
+    "total_sessions": 84,
+    "total_practice_time": 0,
+    "words_learned": 0,
+    "grammar_improvements": 0,
+    "pronunciation_improvements": 0,
+    "streak_days": 0,
+    "last_practice": "2025-10-06T18:35:06.315572",
+    "average_wpm": 120.0,
+    "average_pronunciation_score": 48.5,
+    "average_grammar_score": 93.7,
+    "average_fluency_score": 84.8
+  },
+  "conversation_history": [
+    {
+      "timestamp": "2025-05-26T15:21:01.001723",
+      "user_message": "I am going to say a sentence and I want you to judge me for that hello my name is Mohit and today I am completing my final year project I am testing the project by checking if the chat box can understand me properly and find errors in my accent and I am working and hopefully one ring that it will do it's best",
+      "bot_response": "That's a great effort, Mohit! Your sentence is quite long, but I understand what you're trying to say. Can you break it down into smaller sentences for me?",
+      "scores": {
+        "pronunciation": 63,
+        "grammar": 90,
+        "fluency": 75,
+        "composite": 74.8
+      },
+      "analysis_details": {
+        "pronunciation_errors": 17,
+        "grammar_errors": 1,
+        "filler_count": 0,
+        "wpm": 120
+      }
+    },
+    {
+      "timestamp": "2025-05-26T15:21:01.114508",
+      "user_message": "I am going to say a sentence and I want you to judge me for that hello my name is Mohit and today I am completing my final year project I am testing the project by checking if the chat box can understand me properly and find errors in my accent and I am working and hopefully one ring that it will do it's best",
+      "bot_response": "Wow, that's a long sentence, Mohit! I'm impressed you tried to say so much. Can you break it down into smaller sentences for me?",
+      "scores": {
+        "pronunciation": 60,
+        "grammar": 90,
+        "fluency": 75,
+        "composite": 73.5
+      },
+      "analysis_details": {
+        "pronunciation_errors": 19,
+        "grammar_errors": 1,
+        "filler_count": 0,
+        "wpm": 120
+      }
+    },
+    {
+      "timestamp": "2025-05-26T15:21:33.049132",
+      "user_message": "how are you doing",
+      "bot_response": "I'm doing well, thank you! How was your day today?",
+      "scores": {
+        "pronunciation": 24,
+        "grammar": 95,
+        "fluency": 75,
+        "composite": 59.0
+      },
+      "analysis_details": {
+        "pronunciation_errors": 4,
+        "grammar_errors": 1,
+        "filler_count": 0,
+        "wpm": 120
+      }
+    },
+    {
+      "timestamp": "2025-05-26T15:21:59.169971",
+      "user_message": "it was boring I just prepared for my final year project and I have an valuation this evening  which I have to prepare for as well",
+      "bot_response": "That sounds like a lot of work! You're doing a great job preparing for your final year project and valuation, are you feeling confident about it?",
+      "scores": {
+        "pronunciation": 49,
+        "grammar": 88,
+        "fluency": 75,
+        "composite": 67.8
+      },
+      "analysis_details": {
+        "pronunciation_errors": 12,
+        "grammar_errors": 3,
+        "filler_count": 0,
+        "wpm": 120
+      }
+    },
+    {
+      "timestamp": "2025-05-26T15:22:20.510181",
+      "user_message": "no as confident as I should but",
+      "bot_response": "Don't worry, it's normal to feel that way! What do you think is stopping you from feeling more confident?",
+      "scores": {
+        "pronunciation": 74,
+        "grammar": 95,
+        "fluency": 75,
+        "composite": 81.6
+      },
+      "analysis_details": {
+        "pronunciation_errors": 1,
+        "grammar_errors": 1,
+        "filler_count": 0,
+        "wpm": 120
+      }
+    },
+    {
+      "timestamp": "2025-05-26T16:18:38.995839",
+      "user_message": "hello Hema how are you doing",
+      "bot_response": "I like how you explained that to me. You're doing great with English! Keep practicing your pronunciation - you're doing well!",
+      "scores": {
+        "pronunciation": 20,
+        "grammar": 100,
+        "fluency": 75,
+        "composite": 59.0
+      },
+      "analysis_details": {
+        "pronunciation_errors": 5,
+        "grammar_errors": 0,
+        "filler_count": 0,
+        "wpm": 120
+      }
+    },
+    {
+      "timestamp": "2025-05-26T16:18:43.724132",
+      "user_message": "hello Hema how are you doing",
+      "bot_response": "What you said makes a lot of sense. Keep practicing - you're improving! Keep practicing your pronunciation - you're doing well!",
+      "scores": {
+        "pronunciation": 20,
+        "grammar": 100,
+        "fluency": 75,
+        "composite": 59.0
+      },
+      "analysis_details": {
+        "pronunciation_errors": 5,
+        "grammar_errors": 0,
+        "filler_count": 0,
+        "wpm": 120
+      }
+    },
+    {
+      "timestamp": "2025-05-26T16:18:47.912693",
+      "user_message": "hello Hema how are you doing",
+      "bot_response": "What you said makes a lot of sense. Keep practicing - you're improving! Keep practicing your pronunciation - you're doing well!",
+      "scores": {
+        "pronunciation": 20,
+        "grammar": 100,
+        "fluency": 75,
+        "composite": 59.0
+      },
+      "analysis_details": {
+        "pronunciation_errors": 5,
+        "grammar_errors": 0,
+        "filler_count": 0,
+        "wpm": 120
+      }
+    },
+    {
+      "timestamp": "2025-05-26T16:18:52.451496",
+      "user_message": "hello Hema how are you doing",
+      "bot_response": "What you said makes a lot of sense. Keep practicing - you're improving! Keep practicing your pronunciation - you're doing well!",
+      "scores": {
+        "pronunciation": 20,
+        "grammar": 100,
+        "fluency": 75,
+        "composite": 59.0
+      },
+      "analysis_details": {
+        "pronunciation_errors": 5,
+        "grammar_errors": 0,
+        "filler_count": 0,
+        "wpm": 120
+      }
+    },
+    {
+      "timestamp": "2025-05-26T16:18:57.355985",
+      "user_message": "hello Hema how are you doing",
+      "bot_response": "What you said makes a lot of sense. Keep practicing - you're improving! Keep practicing your pronunciation - you're doing well!",
+      "scores": {
+        "pronunciation": 20,
+        "grammar": 100,
+        "fluency": 75,
+        "composite": 59.0
+      },
+      "analysis_details": {
+        "pronunciation_errors": 5,
+        "grammar_errors": 0,
+        "filler_count": 0,
+        "wpm": 120
+      }
+    },
+    {
+      "timestamp": "2025-05-26T16:19:02.145730",
+      "user_message": "hello Hema how are you doing",
+      "bot_response": "I like how you explained that to me. You're doing great with English! Keep practicing your pronunciation - you're doing well!",
+      "scores": {
+        "pronunciation": 20,
+        "grammar": 100,
+        "fluency": 75,
+        "composite": 59.0
+      },
+      "analysis_details": {
+        "pronunciation_errors": 5,
+        "grammar_errors": 0,
+        "filler_count": 0,
+        "wpm": 120
+      }
+    },
+    {
+      "timestamp": "2025-05-26T16:19:06.163085",
+      "user_message": "hello Hema how are you doing",
+      "bot_response": "Thank you for sharing that with me! I find what you said very interesting. Keep practicing your pronunciation - you're doing well!",
+      "scores": {
+        "pronunciation": 20,
+        "grammar": 100,
+        "fluency": 75,
+        "composite": 59.0
+      },
+      "analysis_details": {
+        "pronunciation_errors": 5,
+        "grammar_errors": 0,
+        "filler_count": 0,
+        "wpm": 120
+      }
+    },
+    {
+      "timestamp": "2025-05-26T16:19:10.523573",
+      "user_message": "hello Hema how are you doing",
+      "bot_response": "I like how you explained that to me. You're doing great with English! Keep practicing your pronunciation - you're doing well!",
+      "scores": {
+        "pronunciation": 20,
+        "grammar": 100,
+        "fluency": 75,
+        "composite": 59.0
+      },
+      "analysis_details": {
+        "pronunciation_errors": 5,
+        "grammar_errors": 0,
+        "filler_count": 0,
+        "wpm": 120
+      }
+    },
+    {
+      "timestamp": "2025-05-26T16:19:14.510635",
+      "user_message": "hello Hema how are you doing",
+      "bot_response": "That's really nice to hear! You expressed that thought very clearly. Keep practicing your pronunciation - you're doing well!",
+      "scores": {
+        "pronunciation": 20,
+        "grammar": 100,
+        "fluency": 75,
+        "composite": 59.0
+      },
+      "analysis_details": {
+        "pronunciation_errors": 5,
+        "grammar_errors": 0,
+        "filler_count": 0,
+        "wpm": 120
+      }
+    },
+    {
+      "timestamp": "2025-05-26T16:37:25.866405",
+      "user_message": "hello how are you doing",
+      "bot_response": "You're getting closer! I'm doing well, thank you for asking! You're doing a great job using simple sentences. Can you tell me what you did yesterday?",
+      "scores": {
+        "pronunciation": 24,
+        "grammar": 95,
+        "fluency": 100,
+        "composite": 64.0
+      },
+      "analysis_details": {
+        "pronunciation_errors": 5,
+        "grammar_errors": 1,
+        "filler_count": 0,
+        "wpm": 120.0
+      }
+    },
+    {
+      "timestamp": "2025-05-26T16:37:51.300983",
+      "user_message": "welcome my project and I just chill for the rest of the day",
+      "bot_response": "That sounds like a great plan! You're using some big words, and that's awesome! \"Welcome\" is a happy hello, and \"chill\" means to relax. You're doing a fantastic job explaining your day! What do you like to do when you're relaxing?",
+      "scores": {
+        "pronunciation": 56,
+        "grammar": 95,
+        "fluency": 90,
+        "composite": 76.5
+      },
+      "analysis_details": {
+        "pronunciation_errors": 5,
+        "grammar_errors": 1,
+        "filler_count": 0,
+        "wpm": 120.0
+      }
+    },
+    {
+      "timestamp": "2025-05-26T16:39:10.249790",
+      "user_message": "I would like to have a good conversation with you can you talk to me for a long time",
+      "bot_response": "That's so sweet of you! I'd love to chat with you for a long time. We can talk about anything\" you like. You're using great vocabulary, like \"conversation\" and \"anything\". Keep it up! Let's talk about your favorite food. Do you like pizza or ice cream?",
+      "scores": {
+        "pronunciation": 50,
+        "grammar": 100,
+        "fluency": 98,
+        "composite": 77.1
+      },
+      "analysis_details": {
+        "pronunciation_errors": 10,
+        "grammar_errors": 0,
+        "filler_count": 1,
+        "wpm": 120.0
+      }
+    },
+    {
+      "timestamp": "2025-05-26T16:39:54.788985",
+      "user_message": "as oxymoronic it may sound to you I am fat but I do not like those things I'll take them I'll eat them but I do not like them they just fools which I can get buy on but this always something better than them",
+      "bot_response": "You're being very honest, and I appreciate that! You're using some big words, like \"oxymoronic\" and \"fools\", and that's amazing! It sounds like you're saying that you don't really enjoy pizza and ice cream, but you'll eat them if they're available. And you're always looking for something better. Is that right? Do you have a favorite healthy food that you really enjoy?",
+      "scores": {
+        "pronunciation": 71,
+        "grammar": 68,
+        "fluency": 77,
+        "composite": 71.2
+      },
+      "analysis_details": {
+        "pronunciation_errors": 9,
+        "grammar_errors": 5,
+        "filler_count": 2,
+        "wpm": 120.0
+      }
+    },
+    {
+      "timestamp": "2025-05-26T16:40:25.267326",
+      "user_message": "it's not that I don't enjoy them but you know",
+      "bot_response": "You're clarifying what you meant, and that's great! It sounds like you're saying you don't enjoy them, but maybe they're not your first choice. Am I right? You're using phrases like \"you know\" to help explain yourself, and that's very natural! What do you think is the most important thing when it comes to food?",
+      "scores": {
+        "pronunciation": 88,
+        "grammar": 80,
+        "fluency": 90,
+        "composite": 85.6
+      },
+      "analysis_details": {
+        "pronunciation_errors": 1,
+        "grammar_errors": 2,
+        "filler_count": 0,
+        "wpm": 120.0
+      }
+    },
+    {
+      "timestamp": "2025-05-26T16:40:55.463024",
+      "user_message": "appreciate you talking to me when but you have to accept na",
+      "bot_response": "I think I understand! You're saying that I should accept \"na\" as a way of saying \"no\" or \"not\", right? That's a very common way to communicate in informal conversations! I appreciate you teaching me about your language and culture. You're doing great! Can I ask you, what do you like\" to do in your free time?",
+      "scores": {
+        "pronunciation": 49,
+        "grammar": 90,
+        "fluency": 100,
+        "composite": 73.5
+      },
+      "analysis_details": {
+        "pronunciation_errors": 7,
+        "grammar_errors": 2,
+        "filler_count": 0,
+        "wpm": 120.0
+      }
+    },
+    {
+      "timestamp": "2025-05-26T16:41:07.556059",
+      "user_message": "how about we end this conversation and you exit",
+      "bot_response": "It was so nice chatting with you! I'm happy to end our conversation whenever you're ready. You're using polite language, like \"how about\", and that's fantastic! I'll exit our chat now. Remember, you're doing great with English, and keep practicing! Goodbye for now!",
+      "scores": {
+        "pronunciation": 53,
+        "grammar": 95,
+        "fluency": 100,
+        "composite": 77.1
+      },
+      "analysis_details": {
+        "pronunciation_errors": 4,
+        "grammar_errors": 1,
+        "filler_count": 0,
+        "wpm": 120.0
+      }
+    },
+    {
+      "timestamp": "2025-05-26T16:41:36.995838",
+      "user_message": "goodbye",
+      "bot_response": "Goodbye! It was wonderful chatting with you. I hope we can talk again soon. Keep up the great work with your English skills.",
+      "scores": {
+        "pronunciation": 85,
+        "grammar": 100,
+        "fluency": 90,
+        "composite": 91.2
+      },
+      "analysis_details": {
+        "pronunciation_errors": 0,
+        "grammar_errors": 0,
+        "filler_count": 0,
+        "wpm": 120.0
+      }
+    },
+    {
+      "timestamp": "2025-05-26T16:48:57.494289",
+      "user_message": "hello Hema how are you doing",
+      "bot_response": "That's so interesting! You're really improving every day. I enjoy talking with you so much! Your pronunciation is getting better every time we talk!",
+      "scores": {
+        "pronunciation": 20,
+        "grammar": 100,
+        "fluency": 75,
+        "composite": 59.0
+      },
+      "analysis_details": {
+        "pronunciation_errors": 5,
+        "grammar_errors": 0,
+        "filler_count": 0,
+        "wpm": 120
+      }
+    },
+    {
+      "timestamp": "2025-05-26T16:49:03.061699",
+      "user_message": "hello Hema how are you doing",
+      "bot_response": "That's so interesting! You're really improving every day. I enjoy talking with you so much! Your pronunciation is getting better every time we talk!",
+      "scores": {
+        "pronunciation": 20,
+        "grammar": 100,
+        "fluency": 75,
+        "composite": 59.0
+      },
+      "analysis_details": {
+        "pronunciation_errors": 5,
+        "grammar_errors": 0,
+        "filler_count": 0,
+        "wpm": 120
+      }
+    },
+    {
+      "timestamp": "2025-05-26T16:49:07.500533",
+      "user_message": "hello Hema how are you doing",
+      "bot_response": "Yes! I understand you perfectly! You explained that so clearly. I'm really proud of you! Your pronunciation is getting better every time we talk!",
+      "scores": {
+        "pronunciation": 20,
+        "grammar": 100,
+        "fluency": 75,
+        "composite": 59.0
+      },
+      "analysis_details": {
+        "pronunciation_errors": 5,
+        "grammar_errors": 0,
+        "filler_count": 0,
+        "wpm": 120
+      }
+    },
+    {
+      "timestamp": "2025-05-26T16:49:11.538515",
+      "user_message": "hello Hema how are you doing",
+      "bot_response": "That's wonderful! You're using such good English now. Keep going - you're doing great! Your pronunciation is getting better every time we talk!",
+      "scores": {
+        "pronunciation": 20,
+        "grammar": 100,
+        "fluency": 75,
+        "composite": 59.0
+      },
+      "analysis_details": {
+        "pronunciation_errors": 5,
+        "grammar_errors": 0,
+        "filler_count": 0,
+        "wpm": 120
+      }
+    },
+    {
+      "timestamp": "2025-05-26T16:49:16.723567",
+      "user_message": "hello Hema how are you doing",
+      "bot_response": "I love hearing your thoughts! You're becoming such a good English speaker. Tell me more! Your pronunciation is getting better every time we talk!",
+      "scores": {
+        "pronunciation": 20,
+        "grammar": 100,
+        "fluency": 75,
+        "composite": 59.0
+      },
+      "analysis_details": {
+        "pronunciation_errors": 5,
+        "grammar_errors": 0,
+        "filler_count": 0,
+        "wpm": 120
+      }
+    },
+    {
+      "timestamp": "2025-05-26T16:51:56.904411",
+      "user_message": "hello",
+      "bot_response": "Hello! It's so nice to hear from you again! You're doing a great job with your English. Keep it up!",
+      "scores": {
+        "pronunciation": 24,
+        "grammar": 100,
+        "fluency": 90,
+        "composite": 63.8
+      },
+      "analysis_details": {
+        "pronunciation_errors": 1,
+        "grammar_errors": 0,
+        "filler_count": 0,
+        "wpm": 120.0
+      }
+    },
+    {
+      "timestamp": "2025-05-26T16:52:26.948710",
+      "user_message": "hello",
+      "bot_response": "Hello again! You're being so polite and friendly. I'm really happy to chat with you!",
+      "scores": {
+        "pronunciation": 24,
+        "grammar": 100,
+        "fluency": 90,
+        "composite": 63.8
+      },
+      "analysis_details": {
+        "pronunciation_errors": 1,
+        "grammar_errors": 0,
+        "filler_count": 0,
+        "wpm": 120.0
+      }
+    },
+    {
+      "timestamp": "2025-05-26T16:52:45.267406",
+      "user_message": "hello how are you",
+      "bot_response": "You're asking about me! That's so thoughtful! I'm doing great, thanks for asking! You're doing a fantastic job with your questions!",
+      "scores": {
+        "pronunciation": 24,
+        "grammar": 95,
+        "fluency": 90,
+        "composite": 62.0
+      },
+      "analysis_details": {
+        "pronunciation_errors": 4,
+        "grammar_errors": 1,
+        "filler_count": 0,
+        "wpm": 120.0
+      }
+    },
+    {
+      "timestamp": "2025-05-26T16:53:08.265445",
+      "user_message": "thank you can you teach me a few new words which I can use in my video life",
+      "bot_response": "You're so eager to learn! I'd be happy to teach you some new ones. Let's start with a few simple words you can use in your daily life. How about these: \"awesome\", \"amazing\", and \"exciting\"? Try saying them with me: \"awesome\", \"amazing\", \"exciting\". You're doing great!",
+      "scores": {
+        "pronunciation": 60,
+        "grammar": 95,
+        "fluency": 90,
+        "composite": 78.2
+      },
+      "analysis_details": {
+        "pronunciation_errors": 6,
+        "grammar_errors": 1,
+        "filler_count": 0,
+        "wpm": 120.0
+      }
+    },
+    {
+      "timestamp": "2025-05-26T16:53:08.313913",
+      "user_message": "thank you can you teach me a few new words which I can use in my video life  everyday",
+      "bot_response": "What a great idea! I'd love to teach you some new words! Let's start with three easy ones: \"awesome\", \"cool\", and \"amazing\". You can use them to describe things you like!",
+      "scores": {
+        "pronunciation": 58,
+        "grammar": 90,
+        "fluency": 90,
+        "composite": 75.6
+      },
+      "analysis_details": {
+        "pronunciation_errors": 6,
+        "grammar_errors": 2,
+        "filler_count": 0,
+        "wpm": 120.0
+      }
+    },
+    {
+      "timestamp": "2025-05-26T16:53:08.465845",
+      "user_message": "thank you can you teach me a few new words which I can use in my video life  everyday",
+      "bot_response": "What a great idea! I'd love to teach you some new words. Let's start with three easy ones. Are you ready? Here they are: \"fun\", \"friend\", and \"family\". You can use them in your daily life, like \"I had fun playing games\" or \"My friend is coming over\". How do you like those words?",
+      "scores": {
+        "pronunciation": 62,
+        "grammar": 90,
+        "fluency": 90,
+        "composite": 77.4
+      },
+      "analysis_details": {
+        "pronunciation_errors": 6,
+        "grammar_errors": 2,
+        "filler_count": 0,
+        "wpm": 120.0
+      }
+    },
+    {
+      "timestamp": "2025-05-26T16:53:08.488093",
+      "user_message": "thank you can you teach me a few new words which I can use in my video life  every",
+      "bot_response": "You're so eager to learn! I love that! Okay, let's learn three new words that you can use in your daily life. Are you ready?\n\nHere are three new words:\n\n1. \"Awesome\" - This means something is really good or great. For example, \"This video is awesome!\"\n2. \"Fantastic\" - This means something is really good or exciting. For example, \"This party is fantastic!\"\n3. \"Amazing\" - This means something is surprising or very good. For example, \"This view is amazing!\"\n\nCan you try using one of these words in a sentence?",
+      "scores": {
+        "pronunciation": 59,
+        "grammar": 90,
+        "fluency": 90,
+        "composite": 76.0
+      },
+      "analysis_details": {
+        "pronunciation_errors": 6,
+        "grammar_errors": 2,
+        "filler_count": 0,
+        "wpm": 120.0
+      }
+    },
+    {
+      "timestamp": "2025-05-26T16:53:41.404193",
+      "user_message": "one new word which I can use in my daily life",
+      "bot_response": "Let's learn one new word that you can use in your daily life?\n\nHere's a new word: \"Wonderful\". This means something is really good or great. For example, \"This day is wonderful!\"\n\nTry saying it with me: \"Wonderful\". You're doing great!",
+      "scores": {
+        "pronunciation": 56,
+        "grammar": 95,
+        "fluency": 90,
+        "composite": 76.5
+      },
+      "analysis_details": {
+        "pronunciation_errors": 5,
+        "grammar_errors": 1,
+        "filler_count": 0,
+        "wpm": 120.0
+      }
+    },
+    {
+      "timestamp": "2025-05-26T16:58:06.806315",
+      "user_message": "hello Hema",
+      "bot_response": "That's really nice to hear! You expressed that thought very clearly. By the way, you might try saying: 'Hello' instead. That would sound more natural. Keep practicing your pronunciation - you're doing well!",
+      "scores": {
+        "pronunciation": 12,
+        "grammar": 90,
+        "fluency": 90,
+        "composite": 54.9
+      },
+      "analysis_details": {
+        "pronunciation_errors": 1,
+        "grammar_errors": 2,
+        "filler_count": 0,
+        "wpm": 120.0
+      }
+    },
+    {
+      "timestamp": "2025-05-26T16:58:38.664967",
+      "user_message": "hello is that better now or is there any issue in that is well",
+      "bot_response": "Thank you for sharing that with me! I find what you said very interesting. By the way, you might try saying: 'Hello' instead. That would sound more natural. Keep practicing your pronunciation - you're doing well!",
+      "scores": {
+        "pronunciation": 55,
+        "grammar": 95,
+        "fluency": 87,
+        "composite": 75.4
+      },
+      "analysis_details": {
+        "pronunciation_errors": 6,
+        "grammar_errors": 1,
+        "filler_count": 1,
+        "wpm": 120.0
+      }
+    },
+    {
+      "timestamp": "2025-05-26T16:59:06.633150",
+      "user_message": "can you teach me some new words",
+      "bot_response": "You asked something important. Here's what I think about it. By the way, you might try saying: 'Can' instead. That would sound more natural.",
+      "scores": {
+        "pronunciation": 74,
+        "grammar": 95,
+        "fluency": 90,
+        "composite": 84.6
+      },
+      "analysis_details": {
+        "pronunciation_errors": 1,
+        "grammar_errors": 1,
+        "filler_count": 0,
+        "wpm": 120.0
+      }
+    },
+    {
+      "timestamp": "2025-05-26T16:59:36.381352",
+      "user_message": "hello I am can you teach me some new words I just want to know them so that I can use them in my daily life",
+      "bot_response": "What you said makes a lot of sense. Keep practicing - you're improving! By the way, you might try saying: 'Hello' instead. That would sound more natural.",
+      "scores": {
+        "pronunciation": 72,
+        "grammar": 80,
+        "fluency": 88,
+        "composite": 78.0
+      },
+      "analysis_details": {
+        "pronunciation_errors": 5,
+        "grammar_errors": 2,
+        "filler_count": 1,
+        "wpm": 120.0
+      }
+    },
+    {
+      "timestamp": "2025-05-26T17:00:07.412254",
+      "user_message": "hello can you hear me now",
+      "bot_response": "I can hear you loud and clear! That's great! I'm so happy to be talking with you. You're doing a fantastic job with your English. Keep it up!",
+      "scores": {
+        "pronunciation": 46,
+        "grammar": 95,
+        "fluency": 90,
+        "composite": 72.0
+      },
+      "analysis_details": {
+        "pronunciation_errors": 4,
+        "grammar_errors": 1,
+        "filler_count": 0,
+        "wpm": 120.0
+      }
+    },
+    {
+      "timestamp": "2025-05-26T17:00:30.460468",
+      "user_message": "am I can you teach me some new words",
+      "bot_response": "You're really trying! I love that! Okay, let me teach you a new word. Here it is: \"Smile\". You can use it like this: \"I love to smile\". Try saying it with me: \"Smile\". You're doing great!",
+      "scores": {
+        "pronunciation": 66,
+        "grammar": 80,
+        "fluency": 90,
+        "composite": 75.7
+      },
+      "analysis_details": {
+        "pronunciation_errors": 3,
+        "grammar_errors": 2,
+        "filler_count": 0,
+        "wpm": 120.0
+      }
+    },
+    {
+      "timestamp": "2025-05-26T17:00:55.985902",
+      "user_message": "smile is a great word can you teach me more words like that",
+      "bot_response": "You liked the word \"Smile\"! That's awesome! Okay, let me teach you two more words that are similar. Here they are: \"Laugh\" and \"Happy\". You can use them like this: \"I love to laugh\" and \"I feel happy\". Try saying them with me: \"Laugh\" and \"Happy\" \"Happy\". You're doing fantastically!",
+      "scores": {
+        "pronunciation": 56,
+        "grammar": 95,
+        "fluency": 87,
+        "composite": 75.9
+      },
+      "analysis_details": {
+        "pronunciation_errors": 5,
+        "grammar_errors": 1,
+        "filler_count": 1,
+        "wpm": 120.0
+      }
+    },
+    {
+      "timestamp": "2025-06-02T13:40:36.045255",
+      "user_message": "or somebody piece of people at school again",
+      "bot_response": "I like how you explained that to me. You're doing great with English! By the way, you might try saying: 'Or' instead. That would sound more natural. Keep practicing your pronunciation - you're doing well!",
+      "scores": {
+        "pronunciation": 63,
+        "grammar": 95,
+        "fluency": 100,
+        "composite": 81.6
+      },
+      "analysis_details": {
+        "pronunciation_errors": 2,
+        "grammar_errors": 1,
+        "filler_count": 0,
+        "wpm": 120.0
+      }
+    },
+    {
+      "timestamp": "2025-06-02T13:40:36.356767",
+      "user_message": "or somebody",
+      "bot_response": "That's really nice to hear! You expressed that thought very clearly. By the way, you might try saying: 'Or' instead. That would sound more natural. Keep practicing your pronunciation - you're doing well!",
+      "scores": {
+        "pronunciation": 66,
+        "grammar": 95,
+        "fluency": 85,
+        "composite": 80.0
+      },
+      "analysis_details": {
+        "pronunciation_errors": 1,
+        "grammar_errors": 1,
+        "filler_count": 0,
+        "wpm": 120.0
+      }
+    },
+    {
+      "timestamp": "2025-06-02T13:40:37.000264",
+      "user_message": "or somebody",
+      "bot_response": "What you said makes a lot of sense. Keep practicing - you're improving! By the way, you might try saying: 'Or' instead. That would sound more natural. Keep practicing your pronunciation - you're doing well!",
+      "scores": {
+        "pronunciation": 25,
+        "grammar": 95,
+        "fluency": 85,
+        "composite": 61.5
+      },
+      "analysis_details": {
+        "pronunciation_errors": 2,
+        "grammar_errors": 1,
+        "filler_count": 0,
+        "wpm": 120.0
+      }
+    },
+    {
+      "timestamp": "2025-06-02T13:40:38.549311",
+      "user_message": "or somebody",
+      "bot_response": "What you said makes a lot of sense. Keep practicing - you're improving! By the way, you might try saying: 'Or' instead. That would sound more natural. Keep practicing your pronunciation - you're doing well!",
+      "scores": {
+        "pronunciation": 37,
+        "grammar": 95,
+        "fluency": 85,
+        "composite": 66.9
+      },
+      "analysis_details": {
+        "pronunciation_errors": 1,
+        "grammar_errors": 1,
+        "filler_count": 0,
+        "wpm": 120.0
+      }
+    },
+    {
+      "timestamp": "2025-07-09T15:45:28.595782",
+      "user_message": "hello",
+      "bot_response": "Hello again! It's great to hear from you! You're doing a fantastic job with your English. Keep it up! Would you like to learn a new word or practice a sentence?",
+      "scores": {
+        "pronunciation": 85,
+        "grammar": 100,
+        "fluency": 90,
+        "composite": 91.2
+      },
+      "analysis_details": {
+        "pronunciation_errors": 0,
+        "grammar_errors": 0,
+        "filler_count": 0,
+        "wpm": 120.0
+      }
+    },
+    {
+      "timestamp": "2025-07-09T15:45:47.500418",
+      "user_message": "sure I would.",
+      "bot_response": "That's the right attitude! I'm so proud of you! Okay, let's learn a new word. Here it is: \"Friend\". You can use it like this: \"My friend is coming over\". Try saying it with me: \"Friend\". You're doing great!",
+      "scores": {
+        "pronunciation": 85,
+        "grammar": 85,
+        "fluency": 75,
+        "composite": 83.0
+      },
+      "analysis_details": {
+        "pronunciation_errors": 0,
+        "grammar_errors": 1,
+        "filler_count": 0,
+        "wpm": 120.0
+      }
+    },
+    {
+      "timestamp": "2025-10-06T18:34:43.579418",
+      "user_message": "hii",
+      "bot_response": "Thank you for sharing that with me! I find what you said very interesting.",
+      "scores": {
+        "pronunciation": 85,
+        "grammar": 100,
+        "fluency": 90,
+        "composite": 91.2
+      },
+      "analysis_details": {
+        "pronunciation_errors": 0,
+        "grammar_errors": 0,
+        "filler_count": 0,
+        "wpm": 120.0
+      }
+    },
+    {
+      "timestamp": "2025-10-06T18:35:06.315602",
+      "user_message": "I want to learn english",
+      "bot_response": "That's really nice to hear! You expressed that thought very clearly.",
+      "scores": {
+        "pronunciation": 85,
+        "grammar": 100,
+        "fluency": 90,
+        "composite": 91.2
+      },
+      "analysis_details": {
+        "pronunciation_errors": 0,
+        "grammar_errors": 0,
+        "filler_count": 0,
+        "wpm": 120.0
+      }
+    }
+  ],
+  "pronunciation_history": [
+    {
+      "timestamp": "2025-05-26T09:25:31.441918",
+      "score": 73,
+      "mispronunciations": [
+        "are"
+      ],
+      "phoneme_errors": [
+        "R"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T09:26:12.299206",
+      "score": 56,
+      "mispronunciations": [
+        "want",
+        "how",
+        "these",
+        "after",
+        "speech",
+        "should",
+        "question",
+        "mark",
+        "should",
+        "tone",
+        "like"
+      ],
+      "phoneme_errors": [
+        "L",
+        "CH",
+        "S"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T09:31:52.823099",
+      "score": 40,
+      "mispronunciations": [
+        "hello",
+        "how",
+        "are"
+      ],
+      "phoneme_errors": [
+        "W"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T09:32:47.621105",
+      "score": 57,
+      "mispronunciations": [
+        "want",
+        "how",
+        "speech",
+        "improving"
+      ],
+      "phoneme_errors": [
+        "W"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T09:33:08.592568",
+      "score": 51,
+      "mispronunciations": [
+        "what",
+        "do",
+        "wrong",
+        "want",
+        "how",
+        "speech"
+      ],
+      "phoneme_errors": [
+        "W"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T09:33:32.615218",
+      "score": 37,
+      "mispronunciations": [
+        "what",
+        "better"
+      ],
+      "phoneme_errors": [
+        "W"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T09:33:59.453130",
+      "score": 56,
+      "mispronunciations": [
+        "think",
+        "getting"
+      ],
+      "phoneme_errors": [
+        "TH"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T09:35:03.213579",
+      "score": 42,
+      "mispronunciations": [
+        "how",
+        "do",
+        "conversation",
+        "with",
+        "you"
+      ],
+      "phoneme_errors": [
+        "W",
+        "S"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T09:35:34.291169",
+      "score": 48,
+      "mispronunciations": [
+        "want",
+        "how",
+        "do",
+        "current",
+        "of",
+        "conversation"
+      ],
+      "phoneme_errors": [
+        "W",
+        "V"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T09:40:57.887404",
+      "score": 71,
+      "mispronunciations": [
+        "want",
+        "how"
+      ],
+      "phoneme_errors": [
+        "W"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T09:41:28.741511",
+      "score": 47,
+      "mispronunciations": [
+        "how",
+        "action",
+        "preceding"
+      ],
+      "phoneme_errors": [
+        "W",
+        "S"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T09:45:27.718886",
+      "score": 38,
+      "mispronunciations": [
+        "hello",
+        "how",
+        "are",
+        "you"
+      ],
+      "phoneme_errors": []
+    },
+    {
+      "timestamp": "2025-05-26T11:01:29.978242",
+      "score": 20,
+      "mispronunciations": [
+        "hello",
+        "how",
+        "are",
+        "you",
+        "doing"
+      ],
+      "phoneme_errors": [
+        "NG"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T11:02:21.075647",
+      "score": 47,
+      "mispronunciations": [
+        "you",
+        "understand",
+        "better",
+        "now"
+      ],
+      "phoneme_errors": [
+        "S",
+        "R"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T11:09:57.057197",
+      "score": 55,
+      "mispronunciations": [
+        "hello",
+        "with",
+        "you"
+      ],
+      "phoneme_errors": [
+        "W"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T11:12:50.732069",
+      "score": 24,
+      "mispronunciations": [
+        "hello",
+        "how",
+        "are",
+        "you"
+      ],
+      "phoneme_errors": []
+    },
+    {
+      "timestamp": "2025-05-26T11:13:21.958443",
+      "score": 73,
+      "mispronunciations": [
+        "you",
+        "with"
+      ],
+      "phoneme_errors": []
+    },
+    {
+      "timestamp": "2025-05-26T11:22:58.702172",
+      "score": 59,
+      "mispronunciations": [
+        "how",
+        "are",
+        "you",
+        "doing"
+      ],
+      "phoneme_errors": [
+        "R",
+        "W"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T11:23:30.217915",
+      "score": 48,
+      "mispronunciations": [
+        "how",
+        "do",
+        "you",
+        "how",
+        "finishing"
+      ],
+      "phoneme_errors": [
+        "S",
+        "SH"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T11:24:07.896124",
+      "score": 46,
+      "mispronunciations": [
+        "more",
+        "like",
+        "want",
+        "you",
+        "how",
+        "conversation",
+        "ending",
+        "with",
+        "with",
+        "with",
+        "weather",
+        "question",
+        "mark",
+        "question",
+        "mark"
+      ],
+      "phoneme_errors": [
+        "L",
+        "R",
+        "W"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T15:12:27.494777",
+      "score": 46,
+      "mispronunciations": [
+        "hello",
+        "you",
+        "hear"
+      ],
+      "phoneme_errors": [
+        "L"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T15:12:50.695158",
+      "score": 42,
+      "mispronunciations": [
+        "doing",
+        "how",
+        "are",
+        "you"
+      ],
+      "phoneme_errors": []
+    },
+    {
+      "timestamp": "2025-05-26T15:13:06.931655",
+      "score": 67,
+      "mispronunciations": [
+        "weekend",
+        "very"
+      ],
+      "phoneme_errors": []
+    },
+    {
+      "timestamp": "2025-05-26T15:13:24.323971",
+      "score": 55,
+      "mispronunciations": [
+        "home",
+        "prepare",
+        "project"
+      ],
+      "phoneme_errors": []
+    },
+    {
+      "timestamp": "2025-05-26T15:13:48.402333",
+      "score": 58,
+      "mispronunciations": [
+        "final",
+        "year",
+        "project",
+        "about",
+        "create",
+        "going",
+        "through"
+      ],
+      "phoneme_errors": [
+        "W"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T15:14:13.662627",
+      "score": 53,
+      "mispronunciations": [
+        "very",
+        "of",
+        "to",
+        "are",
+        "you",
+        "giving",
+        "short",
+        "thought",
+        "you",
+        "conversation",
+        "which",
+        "you",
+        "provide"
+      ],
+      "phoneme_errors": [
+        "V",
+        "TH",
+        "R",
+        "SH"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T15:14:38.960686",
+      "score": 32,
+      "mispronunciations": [
+        "explain",
+        "something",
+        "to",
+        "more"
+      ],
+      "phoneme_errors": [
+        "R"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T15:14:59.451297",
+      "score": 62,
+      "mispronunciations": [
+        "you",
+        "explain",
+        "to",
+        "how",
+        "better"
+      ],
+      "phoneme_errors": [
+        "R"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T15:15:18.173748",
+      "score": 56,
+      "mispronunciations": [
+        "would",
+        "you",
+        "advice",
+        "how",
+        "to",
+        "pronounce"
+      ],
+      "phoneme_errors": [
+        "W",
+        "R"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T15:20:58.983186",
+      "score": 61,
+      "mispronunciations": [
+        "going",
+        "to",
+        "sentence",
+        "want",
+        "you",
+        "to",
+        "hello",
+        "final",
+        "year",
+        "project",
+        "project",
+        "understand",
+        "properly",
+        "accent",
+        "working",
+        "hopefully",
+        "ring",
+        "do"
+      ],
+      "phoneme_errors": [
+        "S",
+        "W",
+        "R",
+        "L"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T15:21:00.909399",
+      "score": 60,
+      "mispronunciations": [
+        "going",
+        "to",
+        "sentence",
+        "want",
+        "you",
+        "to",
+        "hello",
+        "final",
+        "year",
+        "project",
+        "testing",
+        "project",
+        "understand",
+        "properly",
+        "working",
+        "hopefully",
+        "ring",
+        "do"
+      ],
+      "phoneme_errors": [
+        "S",
+        "W",
+        "NG",
+        "R",
+        "L",
+        "F"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T15:21:00.943284",
+      "score": 64,
+      "mispronunciations": [
+        "going",
+        "to",
+        "want",
+        "you",
+        "to",
+        "hello",
+        "final",
+        "year",
+        "project",
+        "project",
+        "understand",
+        "properly",
+        "working",
+        "hopefully",
+        "ring",
+        "do"
+      ],
+      "phoneme_errors": [
+        "W",
+        "NG",
+        "R",
+        "L"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T15:21:00.953299",
+      "score": 63,
+      "mispronunciations": [
+        "going",
+        "to",
+        "want",
+        "you",
+        "to",
+        "hello",
+        "final",
+        "year",
+        "project",
+        "testing",
+        "project",
+        "understand",
+        "properly",
+        "working",
+        "hopefully",
+        "one",
+        "do"
+      ],
+      "phoneme_errors": [
+        "W",
+        "R",
+        "L"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T15:21:00.979648",
+      "score": 59,
+      "mispronunciations": [
+        "going",
+        "to",
+        "sentence",
+        "want",
+        "you",
+        "to",
+        "hello",
+        "final",
+        "year",
+        "project",
+        "testing",
+        "project",
+        "chat",
+        "understand",
+        "properly",
+        "accent",
+        "working",
+        "hopefully",
+        "do"
+      ],
+      "phoneme_errors": [
+        "S",
+        "W",
+        "R",
+        "L"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T15:21:01.001723",
+      "score": 63,
+      "mispronunciations": [
+        "going",
+        "to",
+        "want",
+        "you",
+        "to",
+        "hello",
+        "final",
+        "year",
+        "project",
+        "testing",
+        "project",
+        "understand",
+        "properly",
+        "hopefully",
+        "one",
+        "ring",
+        "do"
+      ],
+      "phoneme_errors": [
+        "S",
+        "W",
+        "R",
+        "L"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T15:21:01.114508",
+      "score": 60,
+      "mispronunciations": [
+        "going",
+        "to",
+        "sentence",
+        "want",
+        "you",
+        "to",
+        "for",
+        "hello",
+        "final",
+        "year",
+        "project",
+        "testing",
+        "project",
+        "understand",
+        "properly",
+        "hopefully",
+        "one",
+        "will",
+        "do"
+      ],
+      "phoneme_errors": [
+        "W",
+        "R",
+        "L"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T15:21:33.049132",
+      "score": 24,
+      "mispronunciations": [
+        "how",
+        "are",
+        "you",
+        "doing"
+      ],
+      "phoneme_errors": []
+    },
+    {
+      "timestamp": "2025-05-26T15:21:59.169971",
+      "score": 49,
+      "mispronunciations": [
+        "prepared",
+        "for",
+        "final",
+        "year",
+        "project",
+        "valuation",
+        "which",
+        "have",
+        "to",
+        "prepare",
+        "for",
+        "well"
+      ],
+      "phoneme_errors": [
+        "F",
+        "R",
+        "L"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T15:22:20.510181",
+      "score": 74,
+      "mispronunciations": [
+        "should"
+      ],
+      "phoneme_errors": []
+    },
+    {
+      "timestamp": "2025-05-26T16:18:38.995839",
+      "score": 20,
+      "mispronunciations": [
+        "hello",
+        "how",
+        "are",
+        "you",
+        "doing"
+      ],
+      "phoneme_errors": []
+    },
+    {
+      "timestamp": "2025-05-26T16:18:43.724132",
+      "score": 20,
+      "mispronunciations": [
+        "hello",
+        "how",
+        "are",
+        "you",
+        "doing"
+      ],
+      "phoneme_errors": [
+        "W",
+        "R"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T16:18:47.912693",
+      "score": 20,
+      "mispronunciations": [
+        "hello",
+        "how",
+        "are",
+        "you",
+        "doing"
+      ],
+      "phoneme_errors": []
+    },
+    {
+      "timestamp": "2025-05-26T16:18:52.451496",
+      "score": 20,
+      "mispronunciations": [
+        "hello",
+        "how",
+        "are",
+        "you",
+        "doing"
+      ],
+      "phoneme_errors": [
+        "W",
+        "R"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T16:18:57.355985",
+      "score": 20,
+      "mispronunciations": [
+        "hello",
+        "how",
+        "are",
+        "you",
+        "doing"
+      ],
+      "phoneme_errors": [
+        "W",
+        "L"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T16:19:02.145730",
+      "score": 20,
+      "mispronunciations": [
+        "hello",
+        "how",
+        "are",
+        "you",
+        "doing"
+      ],
+      "phoneme_errors": [
+        "W",
+        "R"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T16:19:06.163085",
+      "score": 20,
+      "mispronunciations": [
+        "hello",
+        "how",
+        "are",
+        "you",
+        "doing"
+      ],
+      "phoneme_errors": [
+        "R",
+        "L"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T16:19:10.523573",
+      "score": 20,
+      "mispronunciations": [
+        "hello",
+        "how",
+        "are",
+        "you",
+        "doing"
+      ],
+      "phoneme_errors": [
+        "W"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T16:19:14.510635",
+      "score": 20,
+      "mispronunciations": [
+        "hello",
+        "how",
+        "are",
+        "you",
+        "doing"
+      ],
+      "phoneme_errors": [
+        "W",
+        "R"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T16:48:57.494289",
+      "score": 20,
+      "mispronunciations": [
+        "hello",
+        "how",
+        "are",
+        "you",
+        "doing"
+      ],
+      "phoneme_errors": [
+        "W"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T16:49:03.061699",
+      "score": 20,
+      "mispronunciations": [
+        "hello",
+        "how",
+        "are",
+        "you",
+        "doing"
+      ],
+      "phoneme_errors": [
+        "W",
+        "NG"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T16:49:07.500533",
+      "score": 20,
+      "mispronunciations": [
+        "hello",
+        "how",
+        "are",
+        "you",
+        "doing"
+      ],
+      "phoneme_errors": [
+        "W"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T16:49:11.538515",
+      "score": 20,
+      "mispronunciations": [
+        "hello",
+        "how",
+        "are",
+        "you",
+        "doing"
+      ],
+      "phoneme_errors": []
+    },
+    {
+      "timestamp": "2025-05-26T16:49:16.723567",
+      "score": 20,
+      "mispronunciations": [
+        "hello",
+        "how",
+        "are",
+        "you",
+        "doing"
+      ],
+      "phoneme_errors": [
+        "W"
+      ]
+    }
+  ],
+  "grammar_history": [
+    {
+      "timestamp": "2025-05-26T09:25:31.441918",
+      "score": 95,
+      "errors": 1,
+      "error_types": [
+        "capitalization"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T09:26:12.299206",
+      "score": 88,
+      "errors": 2,
+      "error_types": [
+        "capitalization",
+        "punctuation"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T09:31:52.823099",
+      "score": 90,
+      "errors": 2,
+      "error_types": [
+        "capitalization",
+        "spelling"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T09:32:47.621105",
+      "score": 100,
+      "errors": 0,
+      "error_types": []
+    },
+    {
+      "timestamp": "2025-05-26T09:33:08.592568",
+      "score": 95,
+      "errors": 1,
+      "error_types": [
+        "capitalization"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T09:33:32.615218",
+      "score": 95,
+      "errors": 1,
+      "error_types": [
+        "capitalization"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T09:33:59.453130",
+      "score": 95,
+      "errors": 1,
+      "error_types": [
+        "other"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T09:35:03.213579",
+      "score": 95,
+      "errors": 1,
+      "error_types": [
+        "capitalization"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T09:35:34.291169",
+      "score": 100,
+      "errors": 0,
+      "error_types": []
+    },
+    {
+      "timestamp": "2025-05-26T09:40:57.887404",
+      "score": 100,
+      "errors": 0,
+      "error_types": []
+    },
+    {
+      "timestamp": "2025-05-26T09:41:28.741511",
+      "score": 100,
+      "errors": 0,
+      "error_types": []
+    },
+    {
+      "timestamp": "2025-05-26T09:45:27.718886",
+      "score": 95,
+      "errors": 1,
+      "error_types": [
+        "capitalization"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T11:01:29.978242",
+      "score": 90,
+      "errors": 2,
+      "error_types": [
+        "capitalization",
+        "spelling"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T11:02:21.075647",
+      "score": 100,
+      "errors": 0,
+      "error_types": []
+    },
+    {
+      "timestamp": "2025-05-26T11:09:57.057197",
+      "score": 95,
+      "errors": 1,
+      "error_types": [
+        "capitalization"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T11:12:50.732069",
+      "score": 95,
+      "errors": 1,
+      "error_types": [
+        "capitalization"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T11:13:21.958443",
+      "score": 100,
+      "errors": 0,
+      "error_types": []
+    },
+    {
+      "timestamp": "2025-05-26T11:22:58.702172",
+      "score": 90,
+      "errors": 2,
+      "error_types": [
+        "capitalization",
+        "spelling"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T11:23:30.217915",
+      "score": 95,
+      "errors": 1,
+      "error_types": [
+        "capitalization"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T11:24:07.896124",
+      "score": 82,
+      "errors": 2,
+      "error_types": [
+        "capitalization",
+        "grammar"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T15:12:27.494777",
+      "score": 90,
+      "errors": 2,
+      "error_types": [
+        "capitalization",
+        "spelling"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T15:12:50.695158",
+      "score": 100,
+      "errors": 0,
+      "error_types": []
+    },
+    {
+      "timestamp": "2025-05-26T15:13:06.931655",
+      "score": 95,
+      "errors": 1,
+      "error_types": [
+        "capitalization"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T15:13:24.323971",
+      "score": 95,
+      "errors": 1,
+      "error_types": [
+        "capitalization"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T15:13:48.402333",
+      "score": 70,
+      "errors": 3,
+      "error_types": [
+        "capitalization",
+        "punctuation"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T15:14:13.662627",
+      "score": 96,
+      "errors": 1,
+      "error_types": [
+        "capitalization"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T15:14:38.960686",
+      "score": 95,
+      "errors": 1,
+      "error_types": [
+        "spelling"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T15:14:59.451297",
+      "score": 95,
+      "errors": 1,
+      "error_types": [
+        "capitalization"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T15:15:18.173748",
+      "score": 95,
+      "errors": 1,
+      "error_types": [
+        "capitalization"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T15:20:58.983186",
+      "score": 90,
+      "errors": 1,
+      "error_types": [
+        "basic"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T15:21:00.909399",
+      "score": 90,
+      "errors": 1,
+      "error_types": [
+        "basic"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T15:21:00.943284",
+      "score": 90,
+      "errors": 1,
+      "error_types": [
+        "basic"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T15:21:00.953299",
+      "score": 90,
+      "errors": 1,
+      "error_types": [
+        "basic"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T15:21:00.979648",
+      "score": 90,
+      "errors": 1,
+      "error_types": [
+        "basic"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T15:21:01.001723",
+      "score": 90,
+      "errors": 1,
+      "error_types": [
+        "basic"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T15:21:01.114508",
+      "score": 90,
+      "errors": 1,
+      "error_types": [
+        "basic"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T15:21:33.049132",
+      "score": 95,
+      "errors": 1,
+      "error_types": [
+        "capitalization"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T15:21:59.169971",
+      "score": 88,
+      "errors": 3,
+      "error_types": [
+        "capitalization",
+        "other",
+        "formatting"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T15:22:20.510181",
+      "score": 95,
+      "errors": 1,
+      "error_types": [
+        "capitalization"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T16:18:38.995839",
+      "score": 100,
+      "errors": 0,
+      "error_types": []
+    },
+    {
+      "timestamp": "2025-05-26T16:18:43.724132",
+      "score": 100,
+      "errors": 0,
+      "error_types": []
+    },
+    {
+      "timestamp": "2025-05-26T16:18:47.912693",
+      "score": 100,
+      "errors": 0,
+      "error_types": []
+    },
+    {
+      "timestamp": "2025-05-26T16:18:52.451496",
+      "score": 100,
+      "errors": 0,
+      "error_types": []
+    },
+    {
+      "timestamp": "2025-05-26T16:18:57.355985",
+      "score": 100,
+      "errors": 0,
+      "error_types": []
+    },
+    {
+      "timestamp": "2025-05-26T16:19:02.145730",
+      "score": 100,
+      "errors": 0,
+      "error_types": []
+    },
+    {
+      "timestamp": "2025-05-26T16:19:06.163085",
+      "score": 100,
+      "errors": 0,
+      "error_types": []
+    },
+    {
+      "timestamp": "2025-05-26T16:19:10.523573",
+      "score": 100,
+      "errors": 0,
+      "error_types": []
+    },
+    {
+      "timestamp": "2025-05-26T16:19:14.510635",
+      "score": 100,
+      "errors": 0,
+      "error_types": []
+    },
+    {
+      "timestamp": "2025-05-26T16:48:57.494289",
+      "score": 100,
+      "errors": 0,
+      "error_types": []
+    },
+    {
+      "timestamp": "2025-05-26T16:49:03.061699",
+      "score": 100,
+      "errors": 0,
+      "error_types": []
+    },
+    {
+      "timestamp": "2025-05-26T16:49:07.500533",
+      "score": 100,
+      "errors": 0,
+      "error_types": []
+    },
+    {
+      "timestamp": "2025-05-26T16:49:11.538515",
+      "score": 100,
+      "errors": 0,
+      "error_types": []
+    },
+    {
+      "timestamp": "2025-05-26T16:49:16.723567",
+      "score": 100,
+      "errors": 0,
+      "error_types": []
+    }
+  ],
+  "fluency_history": [
+    {
+      "timestamp": "2025-05-26T09:25:31.441918",
+      "score": 100,
+      "wpm": 120.0,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T09:26:12.299206",
+      "score": 78,
+      "wpm": 120.0,
+      "filler_count": 3
+    },
+    {
+      "timestamp": "2025-05-26T09:31:52.823099",
+      "score": 100,
+      "wpm": 120.0,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T09:32:47.621105",
+      "score": 90,
+      "wpm": 120.0,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T09:33:08.592568",
+      "score": 90,
+      "wpm": 120.0,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T09:33:32.615218",
+      "score": 75,
+      "wpm": 120.0,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T09:33:59.453130",
+      "score": 90,
+      "wpm": 120.0,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T09:35:03.213579",
+      "score": 100,
+      "wpm": 120.0,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T09:35:34.291169",
+      "score": 100,
+      "wpm": 120.0,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T09:40:57.887404",
+      "score": 90,
+      "wpm": 120.0,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T09:41:28.741511",
+      "score": 100,
+      "wpm": 120.0,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T09:45:27.718886",
+      "score": 100,
+      "wpm": 120.0,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T11:01:29.978242",
+      "score": 90,
+      "wpm": 120.0,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T11:02:21.075647",
+      "score": 100,
+      "wpm": 120.0,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T11:09:57.057197",
+      "score": 90,
+      "wpm": 120.0,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T11:12:50.732069",
+      "score": 90,
+      "wpm": 120.0,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T11:13:21.958443",
+      "score": 90,
+      "wpm": 120.0,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T11:22:58.702172",
+      "score": 90,
+      "wpm": 120.0,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T11:23:30.217915",
+      "score": 100,
+      "wpm": 120.0,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T11:24:07.896124",
+      "score": 88,
+      "wpm": 120.0,
+      "filler_count": 1
+    },
+    {
+      "timestamp": "2025-05-26T15:12:27.494777",
+      "score": 75,
+      "wpm": 120,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T15:12:50.695158",
+      "score": 75,
+      "wpm": 120,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T15:13:06.931655",
+      "score": 75,
+      "wpm": 120,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T15:13:24.323971",
+      "score": 75,
+      "wpm": 120,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T15:13:48.402333",
+      "score": 75,
+      "wpm": 120,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T15:14:13.662627",
+      "score": 75,
+      "wpm": 120,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T15:14:38.960686",
+      "score": 75,
+      "wpm": 120,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T15:14:59.451297",
+      "score": 75,
+      "wpm": 120,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T15:15:18.173748",
+      "score": 75,
+      "wpm": 120,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T15:20:58.983186",
+      "score": 75,
+      "wpm": 120,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T15:21:00.909399",
+      "score": 75,
+      "wpm": 120,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T15:21:00.943284",
+      "score": 75,
+      "wpm": 120,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T15:21:00.953299",
+      "score": 75,
+      "wpm": 120,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T15:21:00.979648",
+      "score": 75,
+      "wpm": 120,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T15:21:01.001723",
+      "score": 75,
+      "wpm": 120,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T15:21:01.114508",
+      "score": 75,
+      "wpm": 120,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T15:21:33.049132",
+      "score": 75,
+      "wpm": 120,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T15:21:59.169971",
+      "score": 75,
+      "wpm": 120,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T15:22:20.510181",
+      "score": 75,
+      "wpm": 120,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T16:18:38.995839",
+      "score": 75,
+      "wpm": 120,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T16:18:43.724132",
+      "score": 75,
+      "wpm": 120,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T16:18:47.912693",
+      "score": 75,
+      "wpm": 120,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T16:18:52.451496",
+      "score": 75,
+      "wpm": 120,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T16:18:57.355985",
+      "score": 75,
+      "wpm": 120,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T16:19:02.145730",
+      "score": 75,
+      "wpm": 120,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T16:19:06.163085",
+      "score": 75,
+      "wpm": 120,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T16:19:10.523573",
+      "score": 75,
+      "wpm": 120,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T16:19:14.510635",
+      "score": 75,
+      "wpm": 120,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T16:48:57.494289",
+      "score": 75,
+      "wpm": 120,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T16:49:03.061699",
+      "score": 75,
+      "wpm": 120,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T16:49:07.500533",
+      "score": 75,
+      "wpm": 120,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T16:49:11.538515",
+      "score": 75,
+      "wpm": 120,
+      "filler_count": 0
+    },
+    {
+      "timestamp": "2025-05-26T16:49:16.723567",
+      "score": 75,
+      "wpm": 120,
+      "filler_count": 0
+    }
+  ],
+  "vocabulary": {
+    "learning": [],
+    "mastered": [],
+    "review_needed": [],
+    "mispronounced": [
+      "are",
+      "want",
+      "how",
+      "these",
+      "after",
+      "speech",
+      "should",
+      "question",
+      "mark",
+      "tone",
+      "like",
+      "hello",
+      "improving",
+      "what",
+      "do",
+      "wrong",
+      "better",
+      "think",
+      "getting",
+      "conversation",
+      "with",
+      "you",
+      "current",
+      "of",
+      "action",
+      "preceding",
+      "doing",
+      "understand",
+      "now",
+      "finishing",
+      "more",
+      "ending",
+      "weather",
+      "hear",
+      "weekend",
+      "very",
+      "home",
+      "prepare",
+      "project",
+      "final",
+      "year",
+      "about",
+      "create",
+      "going",
+      "through",
+      "to",
+      "giving",
+      "short",
+      "thought",
+      "which",
+      "provide",
+      "explain",
+      "something",
+      "would",
+      "advice",
+      "pronounce",
+      "sentence",
+      "properly",
+      "accent",
+      "working",
+      "hopefully",
+      "ring",
+      "testing",
+      "one",
+      "chat",
+      "for",
+      "will",
+      "prepared",
+      "valuation",
+      "have",
+      "well"
+    ],
+    "total_encountered": 0
+  },
+  "session_history": [],
+  "level_change_history": [
+    {
+      "timestamp": "2025-05-26T09:16:16.654373",
+      "from_level": null,
+      "to_level": "beginner",
+      "score": 35,
+      "method": "manual"
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "id": "9666af3c-fe25-4321-b70e-aa30c09a2494",
+  "username": "Mayed123",
+  "email": "muhammadmayedrazi0@gmail.com",
+  "full_name": "Mayed Razi",
+  "password_hash": "pbkdf2:sha256:600000$xtNAr91KLN0Bv3oL$85060da65052bbb4ad0aa939b9d69e756ddef0f4217d658447b3d8e5337f7434",
+  "created_at": "2025-05-19T05:00:44.807157",
+  "profile": {
+    "level": "beginner",
+    "goals": {
+      "daily_practice_time": 15,
+      "weekly_vocab_target": 20,
+      "current_focus": "grammar"
+    },
+    "preferences": {
+      "voice_enabled": true,
+      "difficulty": "adaptive",
+      "topics": [
+        "general",
+        "conversation"
+      ]
+    },
+    "proficiency_score": 96,
+    "pronunciation_score": 95,
+    "grammar_score": 97,
+    "fluency_score": 96
+  },
+  "stats": {
+    "total_sessions": 13,
+    "total_practice_time": 4,
+    "words_learned": 7,
+    "grammar_improvements": 2,
+    "streak_days": 0,
+    "last_practice": "2025-07-09T15:45:01.721016",
+    "average_pronunciation_score": 61.7,
+    "average_grammar_score": 60.4,
+    "average_fluency_score": 66.7,
+    "average_wpm": 99.2
+  },
+  "vocabulary": {
+    "learning": [
+      "hello",
+      "well",
+      "talk",
+      "tell",
+      "what",
+      "time"
+    ],
+    "mastered": [],
+    "review_needed": [],
+    "mispronounced": [
+      "immediately",
+      "right",
+      "implication",
+      "english",
+      "observation",
+      "should"
+    ]
+  },
+  "grammar_history": [
+    {
+      "timestamp": "2025-05-19T05:01:03.586949",
+      "type": "punctuation",
+      "suggestion": "End sentences with proper punctuation.",
+      "message": "Hello"
+    },
+    {
+      "timestamp": "2025-05-19T05:34:46.631548",
+      "type": "punctuation",
+      "suggestion": "End sentences with proper punctuation.",
+      "message": "Hello how are you"
+    },
+    {
+      "timestamp": "2025-05-26T08:42:59.853555",
+      "score": 85,
+      "errors": 1
+    },
+    {
+      "timestamp": "2025-05-26T08:43:37.330456",
+      "score": 75,
+      "errors": 2
+    },
+    {
+      "timestamp": "2025-05-26T08:44:21.668264",
+      "score": 100,
+      "errors": 0
+    },
+    {
+      "timestamp": "2025-05-26T08:45:00.272710",
+      "score": 70,
+      "errors": 2
+    },
+    {
+      "timestamp": "2025-05-26T08:49:43.507209",
+      "score": 85,
+      "errors": 1
+    },
+    {
+      "timestamp": "2025-05-26T08:50:16.075987",
+      "score": 85,
+      "errors": 1
+    },
+    {
+      "timestamp": "2025-05-26T08:50:40.033047",
+      "score": 100,
+      "errors": 0
+    }
+  ],
+  "session_history": [
+    {
+      "timestamp": "2025-05-19T05:01:03.586949",
+      "user_message": "Hello",
+      "bot_response": "Great job practicing! Keep working on your English! I noticed some great vocabulary: hello. I have 1 suggestion(s) to help you improve.",
+      "grammar_errors": 1,
+      "new_vocabulary": 1,
+      "total_vocabulary": 1,
+      "duration": 1
+    },
+    {
+      "timestamp": "2025-05-19T05:02:10.409183",
+      "user_message": "Well I wanted to have a talk with you can you talk like a human?",
+      "bot_response": "Nice effort! Practice makes perfect! I noticed some great vocabulary: well, talk.",
+      "grammar_errors": 0,
+      "new_vocabulary": 3,
+      "total_vocabulary": 3,
+      "duration": 1
+    },
+    {
+      "timestamp": "2025-05-19T05:34:46.631548",
+      "user_message": "Hello how are you",
+      "bot_response": "That's good practice! Let's continue learning together. I have 1 suggestion(s) to help you improve.",
+      "grammar_errors": 1,
+      "new_vocabulary": 0,
+      "total_vocabulary": 3,
+      "duration": 1
+    },
+    {
+      "timestamp": "2025-05-19T05:35:09.654675",
+      "user_message": "Can you tell what the time is?",
+      "bot_response": "Great job practicing! Keep working on your English! I noticed some great vocabulary: tell, what.",
+      "grammar_errors": 0,
+      "new_vocabulary": 3,
+      "total_vocabulary": 6,
+      "duration": 1
+    }
+  ],
+  "conversation_history": [
+    {
+      "timestamp": "2025-05-26T08:42:59.853555",
+      "user_message": "hello how are you doing",
+      "bot_response": "I'm doing fantastically, thank you for asking! Although, I must say, \"hello how are you doing\" is a great start, but we can take it up a notch, don't you think? Perhaps something like, \"Hi, how's your day shaping up so far?\" or even \"Hey, what's new with you?\" The phrasing is just a tad off, but I love the enthusiasm! By the way, have you had a chance to read that new article in The New Yorker? I'd love to discuss it with you.",
+      "scores": {
+        "pronunciation": 100,
+        "grammar": 85,
+        "fluency": 100,
+        "composite": 94.8
+      }
+    },
+    {
+      "timestamp": "2025-05-26T08:43:37.330456",
+      "user_message": "ask you immediately rack me as a native even though I am not really good at English I believe so was that are right implication by you",
+      "bot_response": "I see what you did there! You're attempting to gauge my reaction to your sentence structure, aren't you? Well, I must commend you on your cunning plan. However, I must admit that your sentence, although creative, didn't quite flow naturally. \n\nLet's break it down: \"ask you immediately rack me as a native\" is an interesting phrase, but it doesn't quite convey the intended meaning. Perhaps you meant to say, \"Do you immediately think I'm a native English speaker, even though I'm not entirely proficient in English?\" \n\nThe implication is that you're trying to test my perception of your English skills, which is a clever move! But, I'm afraid I'm not entirely convinced... yet.",
+      "scores": {
+        "pronunciation": 74,
+        "grammar": 75,
+        "fluency": 97,
+        "composite": 80.1
+      }
+    },
+    {
+      "timestamp": "2025-05-26T08:44:21.668264",
+      "user_message": "What I said was that you immediately ranked me as a native speaker of English even though I don't think that I am good at speaking English I just ask then was it a correct observation on you and",
+      "bot_response": "I see the clarification! You're asking if I initially perceived you as a native English speaker, despite your self-proclaimed limitations in English proficiency. \n\nTo be honest, I didn't quite get that impression. Your initial message, \"hello how are you doing,\" hinted at some linguistic nuances that are typical of non-native speakers. However, your subsequent messages have showcased a commendable ability to articulate complex ideas and engage in abstract discussions. \n\nSo, while I didn't initially peg you as a native speaker, I do think you're demonstrating some impressive linguistic agility. Keep pushing the boundaries, and let's refine those skills further!",
+      "scores": {
+        "pronunciation": 76,
+        "grammar": 100,
+        "fluency": 95,
+        "composite": 89.2
+      }
+    },
+    {
+      "timestamp": "2025-05-26T08:45:00.272710",
+      "user_message": "why do you cut off in between when you talking",
+      "bot_response": "I apologize if my responses seemed abrupt or incomplete. As an advanced English tutor, I'm trained to respond concisely, focusing on the most critical aspects of the conversation. This approach helps me provide targeted feedback, ensuring our conversation remains productive and engaging. \n\nHowever, I understand your concern. To better address this, I'll make a conscious effort to elaborate on my points, providing more comprehensive explanations while maintaining a sophisticated tone. Your feedback is invaluable, and I appreciate your candor!",
+      "scores": {
+        "pronunciation": 100,
+        "grammar": 70,
+        "fluency": 100,
+        "composite": 89.5
+      }
+    },
+    {
+      "timestamp": "2025-05-26T08:49:43.507209",
+      "user_message": "okay ma what do you want to talk about",
+      "bot_response": "I love your enthusiasm! However, I'm a stickler for proper address. Instead of \"ma,\" how about \"Emma\" or simply \"E\"? It's a minor adjustment that adds a touch of sophistication to our conversation.\n\nNow, let's dive into a fascinating topic. Have you had a chance to explore the concept of \"ikigai\" in Japanese culture? It's a captivating idea that combines one's passion, mission, vocation, and profession to create a sense of purpose and fulfillment. What are your thoughts on this concept, or would you like me to elaborate further?",
+      "scores": {
+        "pronunciation": 100,
+        "grammar": 85,
+        "fluency": 96,
+        "composite": 93.8
+      }
+    },
+    {
+      "timestamp": "2025-05-26T08:50:16.075987",
+      "user_message": "and what should the topic be",
+      "bot_response": "Let's navigate the realm of \"ikigai\" further. To delve deeper, I'll pose a thought-provoking question: \"Can the pursuit of one's ikigai lead to a sense of contentment, or is it an unattainable ideal?\"\n\nYour response will not only showcase your language skills but also provide insight into your perspective on this intriguing concept. Feel free to take a stance, present counterarguments, or even propose an alternative perspective. The floor is yours!",
+      "scores": {
+        "pronunciation": 83,
+        "grammar": 85,
+        "fluency": 100,
+        "composite": 88.0
+      }
+    },
+    {
+      "timestamp": "2025-05-26T08:50:40.033047",
+      "user_message": "I don't know what is",
+      "bot_response": "No worries! \"Ikigai\" is a relatively niche concept, even among native English speakers. Let me provide a brief overview to get us started:\n\n\"Ikigai\" is a Japanese term that roughly translates to \"reason for being\" or \"purpose in life.\" It's often represented by a Venn diagram with five overlapping circles:\n\n1. What you're good at (skills)\n2. What you enjoy doing (passion)\n3. What the world needs (mission)\n4. What you can be paid for (vocation)\n5. What you can do (profession)\n\nThe idea is that finding the sweet spot where these circles intersect can lead to a sense of fulfillment and purpose.\n\nNow, let's explore this concept together. What do you think is the most important aspect of finding one's ikigai? Is it about pursuing your passion, making a positive impact, or something else entirely?",
+      "scores": {
+        "pronunciation": 100,
+        "grammar": 100,
+        "fluency": 100,
+        "composite": 100.0
+      }
+    },
+    {
+      "timestamp": "2025-07-09T15:44:17.699943",
+      "user_message": "hello",
+      "bot_response": "Another \"hello\"! This time, I'll take it as an opportunity to steer the conversation towards a more nuanced topic. Have you ever considered the concept of \"high-context\" and \"low-context\" cultures?\n\nIn high-context cultures, like Japan, relationships and implicit understanding play a significant role in communication. In contrast, low-context cultures, like the United States, tend to rely more on explicit communication and directness.\n\nHow do you think these cultural differences might influence the way people approach finding their ikigai? Would individuals from high-context cultures be more likely to prioritize relationships and community in their pursuit of purpose, while those from low-context cultures focus on individual achievement?",
+      "scores": {
+        "pronunciation": 85,
+        "grammar": 100,
+        "fluency": 90,
+        "composite": 91.2
+      },
+      "analysis_details": {
+        "pronunciation_errors": 0,
+        "grammar_errors": 0,
+        "filler_count": 0,
+        "wpm": 120.0
+      }
+    },
+    {
+      "timestamp": "2025-07-09T15:45:01.721016",
+      "user_message": "how should I improve in english?",
+      "bot_response": "An excellent question! To improve your English skills, I recommend a multifaceted approach:\n\n1. **Read widely**: Expose yourself to various genres, such as fiction, non-fiction, articles, and blogs. This will help you develop your vocabulary, comprehension, and understanding of different writing styles.\n2. **Listen actively**: Engage with podcasts, audiobooks, and TV shows in English. This will enhance your listening skills, pronunciation, and intonation.\n3. **Speak regularly**: Practice speaking with native speakers, either in person or online. This will help you build confidence, fluency, and improve your pronunciation.\n4. **Write regularly**: Maintain a journal, write short stories, or even blog posts. This will help you develop your writing skills, grammar, and vocabulary.\n5. **Focus on grammar and vocabulary**: Identify areas where you need improvement and focus on those specific skills. You can use online resources, language learning apps, or work with a tutor like me!\n6. **Immerse yourself in the language**: Spend time in English-speaking countries, watch English movies without subtitles, and listen to English music. The more you surround yourself with the language, the faster you'll improve.\n7. **Get feedback**: Work with a tutor or language exchange partner who can provide constructive feedback on your language skills.\n8. **Be consistent**: Make language learning a regular part of your routine. Set achievable goals and track your progress.\n9. **Learn idiomatic expressions and phrasal verbs**: These will help you sound more natural and fluent in your speech.\n10. **Practice active listening and speaking**: Engage in conversations, debates, and discussions on various topics to improve your critical thinking and communication skills.\n\nRemember, improving your English skills takes time, effort, and dedication. Stay motivated, and don't be afraid to make mistakes \u2013 they're an essential part of the learning process!\n\nWhich area would you like to focus on first?",
+      "scores": {
+        "pronunciation": 85,
+        "grammar": 85,
+        "fluency": 90,
+        "composite": 86.0
+      },
+      "analysis_details": {
+        "pronunciation_errors": 0,
+        "grammar_errors": 1,
+        "filler_count": 0,
+        "wpm": 120.0
+      }
+    }
+  ],
+  "pronunciation_history": [
+    {
+      "timestamp": "2025-05-26T08:42:59.853555",
+      "score": 100,
+      "mispronunciations": []
+    },
+    {
+      "timestamp": "2025-05-26T08:43:37.330456",
+      "score": 74,
+      "mispronunciations": [
+        "immediately",
+        "right",
+        "implication"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T08:44:21.668264",
+      "score": 76,
+      "mispronunciations": [
+        "immediately",
+        "english",
+        "english",
+        "observation"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T08:45:00.272710",
+      "score": 100,
+      "mispronunciations": []
+    },
+    {
+      "timestamp": "2025-05-26T08:49:43.507209",
+      "score": 100,
+      "mispronunciations": []
+    },
+    {
+      "timestamp": "2025-05-26T08:50:16.075987",
+      "score": 83,
+      "mispronunciations": [
+        "should"
+      ]
+    },
+    {
+      "timestamp": "2025-05-26T08:50:40.033047",
+      "score": 100,
+      "mispronunciations": []
+    }
+  ],
+  "fluency_history": [
+    {
+      "timestamp": "2025-05-26T08:42:59.853555",
+      "score": 100,
+      "wpm": 150.0
+    },
+    {
+      "timestamp": "2025-05-26T08:43:37.330456",
+      "score": 97,
+      "wpm": 150.0
+    },
+    {
+      "timestamp": "2025-05-26T08:44:21.668264",
+      "score": 95,
+      "wpm": 150.0
+    },
+    {
+      "timestamp": "2025-05-26T08:45:00.272710",
+      "score": 100,
+      "wpm": 150.0
+    },
+    {
+      "timestamp": "2025-05-26T08:49:43.507209",
+      "score": 96,
+      "wpm": 150.0
+    },
+    {
+      "timestamp": "2025-05-26T08:50:16.075987",
+      "score": 100,
+      "wpm": 150.0
+    },
+    {
+      "timestamp": "2025-05-26T08:50:40.033047",
+      "score": 100,
+      "wpm": 150.0
+    }
+  ]
+}

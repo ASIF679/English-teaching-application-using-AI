@@ -1,0 +1,47 @@
+# === Enhanced Requirements for AI English Tutor v3.1 ===
+
+# Core Flask dependencies
+Flask==3.0.0
+Flask-CORS==4.0.0
+Flask-JWT-Extended==4.6.0
+Werkzeug==3.0.1
+
+# Natural Language Processing
+spacy==3.7.2
+nltk==3.8.1
+
+# Enhanced Grammar Analysis
+language-tool-python==2.9.4
+
+
+# Enhanced Pronunciation Analysis
+pronouncing==0.2.0
+
+# Enhanced Text Analysis and Readability
+textstat==0.7.3
+
+# HTTP requests for AI API calls
+requests==2.31.0
+urllib3==2.0.3
+
+# Data Processing
+numpy==1.24.3
+
+# Security and Environment
+python-dotenv==1.0.0
+python-dateutil==2.8.2
+
+# Production Dependencies (optional)
+gunicorn==21.2.0  # For production deployment
+whitenoise==6.6.0  # For static file serving
+
+# Development Dependencies (optional)
+# pytest==7.4.0
+# pytest-flask==1.2.0
+
+# Installation Instructions:
+# 1. Install Python 3.8+ 
+# 2. pip install -r requirements.txt
+# 3. python -m spacy download en_core_web_sm
+# 4. Create .env file with: GROQ_API_KEY=your_api_key_here
+# 5. Run: python complete_english_tutor.py

@@ -1,0 +1,102 @@
+{
+  "id": "4d3abc9e-1dfd-42b8-acce-8b37a15c8fef",
+  "username": "Asif",
+  "email": "asifnawaz679@gmail.com",
+  "full_name": "Asif",
+  "password_hash": "scrypt:32768:8:1$CqxOywmJK9cOIdlf$bce40c3eacdf440e2d33104d610c7edd77f8949b674d759a104b4510528d5dfdb389f072709939c87e7b57dcd0be8df280fde8f6a4c0a1808aaf6b37a18f7d0e",
+  "created_at": "2026-04-17T18:39:19.510732",
+  "profile": {
+    "level": "beginner",
+    "current_persona": "beginner",
+    "proficiency_score": 49,
+    "pronunciation_score": 47,
+    "grammar_score": 52,
+    "fluency_score": 48,
+    "manual_level_override": false,
+    "goals": {
+      "daily_practice_time": 15,
+      "weekly_vocab_target": 20,
+      "current_focus": "conversation"
+    },
+    "preferences": {
+      "voice_enabled": true,
+      "difficulty": "adaptive",
+      "topics": [
+        "general",
+        "conversation"
+      ],
+      "correction_style": "gentle",
+      "pronunciation_feedback": true,
+      "auto_level_adjustment": true
+    }
+  },
+  "stats": {
+    "total_sessions": 2,
+    "total_practice_time": 0,
+    "words_learned": 0,
+    "grammar_improvements": 0,
+    "pronunciation_improvements": 0,
+    "streak_days": 0,
+    "last_practice": "2026-04-17T18:40:08.834587",
+    "average_wpm": 120.0,
+    "average_pronunciation_score": 85.0,
+    "average_grammar_score": 100.0,
+    "average_fluency_score": 90.0
+  },
+  "conversation_history": [
+    {
+      "timestamp": "2026-04-17T18:39:47.509309",
+      "user_message": "hi can you help me to learn English or not how are you",
+      "bot_response": "Your articulation of that concept shows excellent command of complex language structures.",
+      "scores": {
+        "pronunciation": 85,
+        "grammar": 100,
+        "fluency": 90,
+        "composite": 91.2
+      },
+      "analysis_details": {
+        "pronunciation_errors": 0,
+        "grammar_errors": 0,
+        "filler_count": 0,
+        "wpm": 120.0
+      }
+    },
+    {
+      "timestamp": "2026-04-17T18:40:08.834587",
+      "user_message": "how are you what are you doing",
+      "bot_response": "I find that question particularly insightful given the subtleties involved.",
+      "scores": {
+        "pronunciation": 85,
+        "grammar": 100,
+        "fluency": 90,
+        "composite": 91.2
+      },
+      "analysis_details": {
+        "pronunciation_errors": 0,
+        "grammar_errors": 0,
+        "filler_count": 0,
+        "wpm": 120.0
+      }
+    }
+  ],
+  "pronunciation_history": [],
+  "grammar_history": [],
+  "fluency_history": [],
+  "vocabulary": {
+    "learning": [],
+    "mastered": [],
+    "review_needed": [],
+    "mispronounced": [],
+    "total_encountered": 0
+  },
+  "session_history": [],
+  "level_change_history": [
+    {
+      "timestamp": "2026-04-17T18:39:19.510732",
+      "from_level": null,
+      "to_level": "beginner",
+      "score": 25,
+      "method": "auto"
+    }
+  ]
+}
